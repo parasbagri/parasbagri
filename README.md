@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Virtual_Meeting_Application Project(Using of Api Sokit.io)](https://github.com/parasbagri/Virtual_Meeting_Application)
 
-- 🌱 I’m currently learning **NodeJS, C, HTML, CSS, Data Structures and Algorithms**
+- 🌱 I’m currently learning **NodeJS, Express, Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on [Virtual_Meeting_Application Project](https://github.com/parasbagri/Virtual_Meeting_Application)
 
